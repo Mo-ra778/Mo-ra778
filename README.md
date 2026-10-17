@@ -8,7 +8,7 @@ I build end-to-end systems across **AI/ML, computer vision, modern web applicati
 
 I am open to **software engineering roles, AI/ML opportunities, full-stack development, technical collaborations, freelance projects, and product-building partnerships**.
 
-[Visit my portfolio](https://mohammed-edrees.vercel.app/) · [Explore my GitHub](https://github.com/Mo-ra778)
+[Visit my portfolio](https://mohammed-edrees.vercel.app/) · [Explore my GitHub](https://github.com/Mo-ra778) · [اقرأ النسخة العربية](ABOUT_AR.md)
 
 ---
 
