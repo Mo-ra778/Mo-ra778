@@ -1,151 +1,271 @@
+<div align="center">
+
+<a href="https://mohammed-edrees.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:14b8a6&height=220&section=header&text=Mohammed%20Rashad%20Al-Edrisi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" alt="Mohammed Rashad Al-Edrisi" />
+</a>
+
 # Mohammed Rashad Al-Edrisi
 
-## Software Engineer | AI/ML Builder | Full-Stack Developer | FinTech & SaaS Systems
+### Software Engineer · AI/ML Builder · Full-Stack Developer · FinTech & SaaS
 
-I am **Mohammed Rashad Al-Edrisi**, a Computer Science and Information Technology student at Ibb University and a software engineer focused on turning business ideas into practical digital products.
+<p>
+  <a href="https://mohammed-edrees.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mohammedalidrisi001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/967784401779"><img src="https://img.shields.io/badge/WhatsApp-Available%20for%20work-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-al-edrisi-ba4292305"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-I build end-to-end systems across **AI/ML, computer vision, modern web applications, FinTech platforms, mobile apps, automation, and data-driven products**. My work combines software engineering with product thinking, project coordination, market analysis, sales strategy, and entrepreneurship.
+<p>
+  <a href="https://github.com/Mo-ra778"><img src="https://img.shields.io/badge/GitHub-Mo--ra778-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/mohammed.aledrisi.849013"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/m_rzi_0/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-I am open to **software engineering roles, AI/ML opportunities, full-stack development, technical collaborations, freelance projects, and product-building partnerships**.
+> I design and build useful digital products that connect **AI, data, business workflows, and modern software engineering** — from the first idea to a working, documented system.
 
-[Visit my portfolio](https://mohammed-edrees.vercel.app/) · [Explore my GitHub](https://github.com/Mo-ra778) · [اقرأ النسخة العربية](ABOUT_AR.md)
+[العربية](ABOUT_AR.md) · [Detailed project catalog](PROJECTS.md)
+
+</div>
 
 ---
 
-## What I Build
+## About me
 
-- **AI and machine learning products:** OCR, computer vision, NLP, classification, prediction, and intelligent assistants.
-- **Full-stack business systems:** dashboards, ERP-style systems, audit platforms, commerce platforms, finance systems, and REST APIs.
-- **FinTech solutions:** digital wallets, multi-currency flows, agent cash-in/cash-out, OTP-based authorization, transaction workflows, and administrative operations.
-- **Mobile applications:** Flutter and React Native apps connected to APIs, with offline-first and on-device processing where appropriate.
-- **Automation systems:** n8n workflows, Google Apps Script solutions, API integrations, and process automation.
-- **Data products:** data mining, financial analysis, dashboards, KPI reporting, and decision-support tools.
-- **Product and team work:** project planning, requirements analysis, team coordination, sales strategy, market analysis, and digital marketing.
+I am **Mohammed Rashad Al-Edrisi**, a Computer Science and Information Technology student at **Ibb University, Yemen**, a software developer, AI builder, and entrepreneur.
 
-## Featured Projects
+My work sits at the intersection of **intelligent systems, full-stack product engineering, FinTech, business automation, data analysis, and product strategy**. I build systems rather than isolated screens: I think about users, requirements, data models, authorization, workflows, APIs, testing, deployment, and the business outcome behind the product.
 
-### AuditFlow — External Audit Management Platform
+I have worked on more than **14 software projects** across web, mobile, AI, computer vision, finance, education, automation, and business operations. My portfolio also reflects experience in **team leadership, project management, sales strategy, market analysis, digital marketing, and entrepreneurship**.
 
-A bilingual RTL platform designed to help external audit firms manage offices, clients, engagements, audit planning, materiality, risk assessment, trial balances, lead schedules, evidence, workpapers, approvals, roles, and audit trails.
+### What I am open to
 
-**Engineering highlights:** multi-tenant firm isolation, role-based permissions, governed workflow transitions, acceptance and independence gates, trial-balance validation, evidence controls, internal sign-offs, and extensive Vitest coverage.
+- Software Engineering and Full-Stack roles
+- AI/ML and Computer Vision opportunities
+- FinTech, SaaS, and business-platform development
+- Mobile and API-driven product work
+- Technical partnerships and freelance projects
+- Product engineering, automation, and technical consulting
 
-[Repository](https://github.com/Mo-ra778/auditflow-audit-platform)
+---
 
-### Commerce Platform — Multi-Tenant Commerce SaaS
+## What I build
 
-A modular commerce platform foundation for merchants who need online stores, catalog management, pricing, inventory, customers, carts, checkout, orders, payments, shipping, promotions, content, themes, analytics, and integrations.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering highlights:** Turborepo monorepo, Next.js storefront, React/Vite admin, NestJS/Fastify API, PostgreSQL with Drizzle, Redis/BullMQ, Meilisearch, R2-compatible storage, theme packages, automated checks, integration tests, and GitHub Actions CI.
+### AI and intelligent products
 
-**Current status:** architecture and foundation stage. The repository clearly documents what is implemented, planned, and gated for future work.
+OCR, computer vision, NLP, deep learning, classification, model evaluation, intelligent assistants, and on-device inference.
 
-[Repository](https://github.com/Mo-ra778/commerce-platform-v5) · [Live preview](https://commerce-platform-v5.vercel.app)
+</td>
+<td width="50%" valign="top">
 
-### Baybayin OCR and Offline Mobile App
+### Full-stack business systems
 
-A computer-vision and language-processing project for recognizing the historical Baybayin script, transliterating results, and making the experience available through an offline-capable mobile application.
+Audit platforms, commerce platforms, finance systems, dashboards, ERP-style workflows, REST APIs, and role-based administration.
 
-**Engineering highlights:** YOLOv8, ONNX Runtime, image preprocessing, CLAHE enhancement, tiled inference, non-maximum suppression, spatial clustering, phonetic transliteration, multilingual lexicon search, TTS, and Flutter mobile architecture.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[OCR pipeline](https://github.com/Mo-ra778/Baybayin-OCR) · [Mobile app](https://github.com/Mo-ra778/baybayin_mobile_app)
+### FinTech and financial workflows
+
+Digital wallets, multi-currency balances, agent operations, cash-in/cash-out, remittances, OTP flows, transaction integrity, and operational controls.
+
+</td>
+<td width="50%" valign="top">
+
+### Mobile, automation, and data
+
+Flutter and React Native apps, offline-first experiences, n8n workflows, Google Apps Script, data mining, financial analysis, KPI dashboards, and decision-support tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AuditFlow
+**External Audit Management Platform**
+
+An Arabic RTL platform for audit firms covering offices, clients, engagements, planning, materiality, risks, trial balances, lead schedules, evidence, workpapers, approvals, roles, and audit trails.
+
+**Demonstrates:** domain modeling, firm isolation, RBAC, governed workflows, independence gates, spreadsheet validation, and Vitest testing.
+
+<a href="https://github.com/Mo-ra778/auditflow-audit-platform">Explore repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Commerce Platform
+**Multi-Tenant Commerce SaaS Foundation**
+
+A modular foundation for merchant stores, catalog, pricing, inventory, customers, checkout, payments, shipping, promotions, themes, content, and analytics.
+
+**Demonstrates:** Turborepo, Next.js, Vite, NestJS, Fastify, PostgreSQL, Drizzle, Redis, BullMQ, Meilisearch, R2, observability, and CI.
+
+<a href="https://github.com/Mo-ra778/commerce-platform-v5">Explore repository →</a> · <a href="https://commerce-platform-v5.vercel.app">Preview →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Baybayin OCR + Mobile
+**Computer Vision and On-Device NLP**
+
+A research and product track for recognizing the historical Baybayin script, transliterating results, searching a multilingual lexicon, and delivering the experience through Flutter.
+
+**Demonstrates:** YOLOv8, PyTorch, ONNX Runtime, OpenCV, CLAHE, tiled inference, NMS, spatial clustering, TTS, and offline mobile engineering.
+
+<a href="https://github.com/Mo-ra778/Baybayin-OCR">OCR pipeline →</a> · <a href="https://github.com/Mo-ra778/baybayin_mobile_app">Mobile app →</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### E-Wallet Core Platform
+**Digital Wallet and Agent Operations**
 
-A Laravel-based digital wallet system covering users, agents, administrators, multi-currency balances, transfers, deposits, withdrawals, remittances, exchange rates, notifications, OTP workflows, and operational dashboards.
+A Laravel portfolio system for users, agents, admins, multi-currency wallets, deposits, withdrawals, transfers, remittances, exchange rates, notifications, and JWT APIs.
 
-**Engineering highlights:** Laravel, PHP, PostgreSQL/SQLite support, JWT authentication, hashed passwords, CSRF-protected web flows, database transactions, pessimistic row locking, multi-currency models, and agent/admin role separation.
+**Demonstrates:** Laravel, PHP, transactions, pessimistic locking, JWT, CSRF, migrations, Blade, REST APIs, and role separation.
 
-**Project note:** this is an engineering portfolio project and must not be presented as production banking infrastructure until security review, threat modeling, financial reconciliation, rate limiting, audit controls, and deployment hardening are complete.
+<a href="https://github.com/Mo-ra778/ewallet-core-platform">Explore repository →</a> · <a href="https://ewallet-core-platform.vercel.app">Preview →</a>
 
-[Repository](https://github.com/Mo-ra778/ewallet-core-platform) · [Live preview](https://ewallet-core-platform.vercel.app)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### AI-AGET — Safety-First AI Coding-Agent Foundation
+### AI-AGET
+**Safety-First AI Coding-Agent Foundation**
 
-A typed Python/FastAPI/LangGraph foundation for building bounded AI agent runs with execution-step limits, time budgets, estimated cost budgets, usage reconciliation, health checks, and tests.
+A typed Python/FastAPI/LangGraph foundation with run-step limits, time budgets, estimated cost budgets, usage reconciliation, request IDs, health checks, and tests.
 
-**Engineering highlights:** Python typing, FastAPI, LangGraph, pytest, Ruff, mypy, request IDs, budget enforcement, and explicit product boundaries around tools, persistence, authentication, and sandboxing.
+**Demonstrates:** agent boundaries, typed Python, API design, testing, and responsible AI engineering.
 
-[Repository](https://github.com/Mo-ra778/ai-aget-platform)
+<a href="https://github.com/Mo-ra778/ai-aget-platform">Explore repository →</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### GlassPOS
+**Multilingual Point-of-Sale Frontend**
 
-A multilingual React and TypeScript point-of-sale frontend for products, sales, customers, expenses, and reports, with a local mock API for fast development and demonstration.
+A React and TypeScript POS interface for products, sales, customers, expenses, and reports, backed by a local mock API for fast demos.
 
-[Repository](https://github.com/Mo-ra778/GlassPOS)
+**Demonstrates:** dashboard UX, multilingual product interfaces, component design, and frontend architecture.
 
-### Other Experiments and Products
+<a href="https://github.com/Mo-ra778/GlassPOS">Explore repository →</a>
 
-- **Wafi Pay Mobile:** React Native/Expo FinTech mobile client connected to a Laravel API.
-- **PIXOLR:** an image-editor product foundation using TypeScript and a web/server architecture.
-- **LectureMind AI:** a concept for turning lectures into notes, summaries, flashcards, and study material.
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More products and experiments</b></summary>
+<br />
+
+- **Wafi Pay Mobile:** React Native and Expo FinTech client integrated with a Laravel API.
+- **PIXOLR:** TypeScript web/server foundation for an interactive image editor.
+- **LectureMind AI:** product concept for lecture transcription, notes, summaries, and flashcards.
 - **Hand Drawing in Air:** computer-vision interaction for drawing through hand movement.
-- **UNet Novel View Synthesis:** deep-learning experiments for generating new viewpoints from a single image.
-- **Voice-to-Notion Assistant:** an n8n workflow for turning voice input into structured Notion content.
-- **Loqmat Jadati:** a Yemeni heritage-food website with product presentation, orders, and administration.
-- **Mini Compiler:** a C# compiler front-end with lexer, symbol table, parsing, and semantic analysis.
-- **Client/Server Chat:** a C# Windows Forms TCP/IP client-server chat application.
+- **UNet Novel View Synthesis:** deep-learning experiment for new viewpoints from a single image.
+- **Voice-to-Notion Assistant:** n8n workflow that turns voice input into structured Notion content.
+- **Loqmat Jadati:** Yemeni heritage-food product and ordering website with administration.
+- **Mini Compiler:** C# compiler front-end with lexer, parser, AST, symbol table, and semantic analysis.
+- **Client/Server Chat:** C# Windows Forms TCP/IP chat application.
+- **Web Apps:** student graduation-project registration using Google Sheets and Apps Script.
+- **Marketing and support systems:** PHP/HTML/JS projects for marketing planning and support workflows.
+- **Data mining and system graph experiments:** data processing, pattern extraction, and graph visualization.
+
+See the [complete project catalog](PROJECTS.md) for scope, value, technologies, and presentation status.
+
+</details>
 
 ---
 
-## Technical Skills
+## Technical stack
 
 ### Languages
 
+<p><img src="https://skillicons.dev/icons?i=python,ts,js,php,cs,cpp,dart,html,css" alt="Languages" /></p>
+
 `Python` · `TypeScript` · `JavaScript` · `PHP` · `C#` · `C++` · `Dart` · `SQL` · `HTML` · `CSS`
 
-### Frontend and Mobile
+### Frontend, mobile, and product UI
 
-`React` · `Next.js` · `Vite` · `React Native` · `Expo` · `Flutter` · `Tailwind CSS` · `Ant Design` · `shadcn/ui` · `RTL interfaces` · `Responsive UI` · `Accessibility-minded UI`
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,reactnative,tailwind,figma" alt="Frontend and mobile technologies" /></p>
 
-### Backend and APIs
+`React` · `Next.js` · `Vite` · `React Native` · `Expo` · `Flutter` · `Tailwind CSS` · `Ant Design` · `shadcn/ui` · `RTL` · `Responsive UI`
 
-`Laravel` · `Node.js` · `NestJS` · `Fastify` · `Express` · `FastAPI` · `REST APIs` · `tRPC` · `JWT` · `OAuth` · `Webhooks` · `API integration`
+### Backend, APIs, and data
 
-### Data and Infrastructure
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,laravel,postgres,mysql,sqlite,redis,docker" alt="Backend and data technologies" /></p>
 
-`PostgreSQL` · `MySQL` · `SQLite` · `Drizzle ORM` · `Eloquent` · `Redis` · `BullMQ` · `Meilisearch` · `Docker` · `GitHub Actions` · `Vercel` · `Render` · `Cloudflare R2`
+`Node.js` · `NestJS` · `Fastify` · `Express` · `FastAPI` · `Laravel` · `REST` · `tRPC` · `JWT` · `OAuth` · `Webhooks` · `PostgreSQL` · `MySQL` · `SQLite` · `Drizzle ORM` · `Eloquent`
 
-### AI, ML, and Data
+### AI, ML, automation, and infrastructure
 
-`PyTorch` · `YOLOv8` · `ONNX Runtime` · `OpenCV` · `Pandas` · `NumPy` · `scikit-learn` · `LangGraph` · `NLP` · `OCR` · `Computer Vision` · `Deep Learning` · `Data Mining` · `Financial Data Analysis` · `Model evaluation`
+<p><img src="https://skillicons.dev/icons?i=pytorch,opencv,git,githubactions,vercel,aws" alt="AI and infrastructure technologies" /></p>
 
-### Engineering Practices
+`PyTorch` · `YOLOv8` · `ONNX Runtime` · `OpenCV` · `Pandas` · `NumPy` · `scikit-learn` · `LangGraph` · `OCR` · `NLP` · `Computer Vision` · `Deep Learning` · `Data Mining` · `n8n` · `Google Apps Script` · `Redis` · `BullMQ` · `Meilisearch` · `Docker` · `GitHub Actions` · `Vercel` · `Render` · `Cloudflare R2`
 
-`System design` · `Database design` · `Authentication and authorization` · `RBAC` · `Multi-tenancy` · `Transactions and concurrency` · `Input validation` · `Audit trails` · `Testing with Vitest/Pytest/Flutter Test` · `Type checking` · `Linting and formatting` · `CI/CD` · `Documentation` · `Agile/Scrum` · `Git`
+### Engineering and business
 
-### Product and Business Skills
-
-`Requirements analysis` · `Project management` · `Team coordination` · `Sales strategy` · `Market analysis` · `Digital marketing` · `Entrepreneurship` · `Client communication` · `Product planning`
+`System Design` · `Database Design` · `Authentication` · `Authorization` · `RBAC` · `Multi-tenancy` · `Concurrency` · `Input Validation` · `Audit Trails` · `Vitest` · `Pytest` · `Flutter Test` · `Type Checking` · `Linting` · `CI/CD` · `Agile/Scrum` · `Project Management` · `Team Leadership` · `Sales Strategy` · `Market Analysis` · `Digital Marketing` · `Entrepreneurship`
 
 ---
 
-## How I Work
+## Career and learning
 
-I start by understanding the real problem, defining the product boundary, designing the data and system flow, and then building a testable implementation. I care about clear documentation, secure defaults, maintainable code, and measurable outcomes. I also document unfinished areas instead of presenting prototypes as completed production systems.
+| Period | Focus |
+|---|---|
+| 2023 — Present | Software development, AI/ML products, web systems, entrepreneurship, team coordination, and sales strategy |
+| 2022 — 2023 | Web development, PHP/MySQL systems, JavaScript, HTML/CSS, and Google Apps Script automation |
+| 2022 — 2027 | Computer Science and Information Technology studies at Ibb University, with focus on AI and modern web development |
 
-## Current Focus
+### Certifications and professional learning listed on my portfolio
 
-- Building reliable AI-enabled products with explicit safety and cost boundaries.
-- Developing Arabic-first and RTL business software.
-- Improving FinTech, audit, commerce, and data workflows.
-- Strengthening automated testing, CI/CD, security, and production readiness.
+`AWS Certified Solutions Architect` · `Professional Scrum Master I` · `Google UX` · `Meta Front-End` · `Deep Learning Specialization — Andrew Ng` · `Frontend Masters`
 
-## Certifications and Learning
-
-My portfolio lists learning and certification work across AWS, Scrum, frontend development, deep learning, UX, and Frontend Masters. Certification links and certificate IDs should be added here only when publicly verifiable.
-
-## Contact
-
-- Portfolio: [mohammed-edrees.vercel.app](https://mohammed-edrees.vercel.app/)
-- GitHub: [@Mo-ra778](https://github.com/Mo-ra778)
-- Email: **add a professional public email here**
-- LinkedIn: **add your LinkedIn URL here**
-
-> Interested in hiring me, collaborating on a product, or discussing a technical idea? Please reach out through my portfolio or professional contact details.
+> Certificate links and IDs can be added to each item when the public verification links are available.
 
 ---
 
-<p align="center">
-  Building useful software with AI, data, and thoughtful engineering.
-</p>
+## How I work
+
+I begin with the real user and business problem. Then I define the product boundary, model the data, design the workflow and permissions, build a testable implementation, and document what is complete versus planned.
+
+I care about **useful outcomes, secure defaults, maintainable code, honest project status, clear communication, and continuous improvement**.
+
+---
+
+## Contact me
+
+| Channel | Link |
+|---|---|
+| Portfolio | [mohammed-edrees.vercel.app](https://mohammed-edrees.vercel.app/) |
+| Email | [mohammedalidrisi001@gmail.com](mailto:mohammedalidrisi001@gmail.com) |
+| WhatsApp / Phone | [+967 784 401 779](https://wa.me/967784401779) |
+| LinkedIn | [Mohammed Al-Edrisi](https://www.linkedin.com/in/mohammed-al-edrisi-ba4292305) |
+| Facebook | [mohammed.aledrisi.849013](https://www.facebook.com/mohammed.aledrisi.849013/) |
+| Instagram | [@m_rzi_0](https://www.instagram.com/m_rzi_0/) |
+
+<div align="center">
+
+### Available for meaningful work and ambitious ideas
+
+<a href="https://wa.me/967784401779?text=مرحباً،%20أريد%20التواصل%20بخصوص%20فرصة%20أو%20مشروع%20تقني."><img src="https://img.shields.io/badge/Start%20a%20conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a conversation" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:0f766e,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>

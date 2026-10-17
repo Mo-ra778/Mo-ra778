@@ -99,3 +99,18 @@ PyTorch، YOLOv8، ONNX Runtime، OpenCV، Pandas، NumPy، scikit-learn، LangG
 هندسة البرمجيات، Full-Stack، AI/ML، Computer Vision، FinTech، SaaS، الأنظمة الإدارية، تطبيقات الموبايل، الأتمتة، وتحويل الأفكار إلى منتجات تقنية قابلة للاستخدام.
 
 > أؤمن ببناء برمجيات مفيدة، موثقة، آمنة، وقابلة للتطوير، مع توضيح الفرق بين النموذج الأولي والمنتج الجاهز للإنتاج.
+
+## التواصل المباشر
+
+- الموقع: [mohammed-edrees.vercel.app](https://mohammed-edrees.vercel.app/)
+- البريد الإلكتروني: [mohammedalidrisi001@gmail.com](mailto:mohammedalidrisi001@gmail.com)
+- واتساب والهاتف: [+967 784 401 779](https://wa.me/967784401779)
+- LinkedIn: [Mohammed Al-Edrisi](https://www.linkedin.com/in/mohammed-al-edrisi-ba4292305)
+- Facebook: [mohammed.aledrisi.849013](https://www.facebook.com/mohammed.aledrisi.849013/)
+- Instagram: [@m_rzi_0](https://www.instagram.com/m_rzi_0/)
+
+<p align="center">
+  <a href="https://wa.me/967784401779?text=مرحباً،%20أريد%20التواصل%20بخصوص%20فرصة%20أو%20مشروع%20تقني.">
+    <img src="https://img.shields.io/badge/تواصل%20معي%20عبر%20واتساب-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="تواصل معي عبر واتساب" />
+  </a>
+</p>
