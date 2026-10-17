@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:14b8a6&height=220&section=header&text=Mohammed%20Rashad%20Al-Edrisi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" alt="Mohammed Rashad Al-Edrisi" />
 </a>
 
-# Mohammed Rashad Al-Edrisi
+# mohammed_Edrees
 
 ### Software Engineer · AI/ML Builder · Full-Stack Developer · FinTech & SaaS
 
