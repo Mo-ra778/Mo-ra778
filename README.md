@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://mohammed-edrees.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:14b8a6&height=220&section=header&text=Mohammed%20Rashad%20Al-Edrisi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" alt="Mohammed Rashad Al-Edrisi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:14b8a6&height=220&section=header&text=mohammed_edrees&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%" alt="mohammed_edrees" />
 </a>
 
-# mohammed_Edrees
+# mohammed_edrees
 
 ### Software Engineer · AI/ML Builder · Full-Stack Developer · FinTech & SaaS
 
@@ -31,7 +31,7 @@
 
 ## About me
 
-I am **Mohammed Rashad Al-Edrisi**, a Computer Science and Information Technology student at **Ibb University, Yemen**, a software developer, AI builder, and entrepreneur.
+I am **mohammed_edrees**, a Computer Science and Information Technology student at **Ibb University, Yemen**, a software developer, AI builder, and entrepreneur.
 
 My work sits at the intersection of **intelligent systems, full-stack product engineering, FinTech, business automation, data analysis, and product strategy**. I build systems rather than isolated screens: I think about users, requirements, data models, authorization, workflows, APIs, testing, deployment, and the business outcome behind the product.
 
